@@ -2,8 +2,8 @@
 
 This Arduino project reads temperature and humidity data from a DHT sensor (configured for DHT22) and wirelessly transmits the data using an nRF24L01 radio module. The data is also printed to the Serial Monitor for debugging and monitoring purposes.
 
-![Project Image](screenshot.png)  
-*An example image of the hardware setup (optional).*
+![Project Image](CIRCUIT DIAGRAM2.png)  
+
 
 ---
 
